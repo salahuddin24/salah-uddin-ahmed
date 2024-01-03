@@ -1,0 +1,9 @@
+div{
+  background-color: aqua;
+  color:red;
+  border: 10px solid brown;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px brown ;
+  padding: 10px;
+  
+}
